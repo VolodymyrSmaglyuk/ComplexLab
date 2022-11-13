@@ -1,0 +1,20 @@
+
+Date: Sun Nov 13 23:15:16 EET 2022
+Level :INFO
+Class:Main Method name: main
+Message: Вибір команди завершено.
+
+Date: Sun Nov 13 23:15:16 EET 2022
+Level :INFO
+Class:Menu.FlowerListCommand.AddFlowerCommand Method name: execute
+Message: Початок виконнання команди по дадаванню квітів.
+
+Date: Sun Nov 13 23:15:18 EET 2022
+Level :WARNING
+Class:Menu.FlowerListCommand.AddFlowerCommand Method name: execute
+Message: Помилка введення даних або введено неіснуючу команду: java.util.InputMismatchException
+
+Date: Sun Nov 13 23:15:25 EET 2022
+Level :INFO
+Class:Main Method name: main
+Message: Вибір команди завершено.
